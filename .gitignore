@@ -1,0 +1,6 @@
+data/
+results/
+literature/
+work/
+__pycache__/
+*.pyc
